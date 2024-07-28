@@ -1,0 +1,12 @@
+<botcomponent schemaname="crf86_alamedaJobsBot.gpt.default">
+  <componenttype>15</componenttype>
+  <description>A bot for Alameda County's Job website.
+</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Alameda Jobs Bot</name>
+  <parentbotid>
+    <schemaname>crf86_alamedaJobsBot</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

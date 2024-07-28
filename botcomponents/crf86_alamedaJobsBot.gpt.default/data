@@ -1,0 +1,5 @@
+kind: GptComponentMetadata
+instructions: |-
+  Get information from the knowledge base only.
+  Speak professionally.
+gptCapabilities: {}
